@@ -1,0 +1,3 @@
+WARNING 2018-12-09 10:18:21 D:\Python27\lib\site-packages\django\core\handlers\base.py base 142 Not Found: /accounts/ status_code:404
+WARNING 2018-12-09 10:18:28 D:\Python27\lib\site-packages\django\core\handlers\base.py base 142 Not Found: /index status_code:404
+WARNING 2018-12-09 21:06:25 E:\Django\ComPerformance\venv\lib\site-packages\django\core\handlers\base.py base 142 Not Found: /index status_code:404
